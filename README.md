@@ -8,11 +8,13 @@ Single Page Application which a using a banch of different technologies
 Be sure that Mongo DB up and running on your machine
 
 cd blog-app-server/
+npm install
 npm start
 
 cd ..
 
 cd blog-app-client
+npm install
 npm start
 ```
 
