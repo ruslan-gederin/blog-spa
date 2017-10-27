@@ -43,3 +43,11 @@ Redux-thunk
 Chai/Mocha
 Lodash
 ```
+
+## Coursers and certifications
+
+* [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-RJYNGDVN/) - basic course about JS
+* [Modern React with Redux](https://www.udemy.com/certificate/UC-L4838FH8/) - basic course about react/redux
+* [Advanced React and Redux](https://www.udemy.com/certificate/UC-WUTHIGT3/) - advanced course about react/redux
+
+
